@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { create } from 'zustand'
-// import { create } from './my-zustand'
+// import { create } from 'zustand'
+import { create } from './my-zustand'
 
 export interface TStore {
   bears: number
